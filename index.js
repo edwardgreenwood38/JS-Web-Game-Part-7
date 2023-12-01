@@ -18,7 +18,6 @@ async function moveNPC() {
 
 moveNPC()
 
-
 // Create the inventory
 const inventory = newInventory()
 move(inventory).to(0, 0)
